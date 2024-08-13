@@ -24,16 +24,16 @@ Hi, I'm Rockhui 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an w
     - Java ❤
     - PHP ❤
 - **Java Framework**
-    - Spring-boot,Mybatis
+    - Spring-boot, Mybatis
 - **PHP Framework**
-    - ThinkPHP, Laravel, Hyperf 
+    - ThinkPHP, Laravel, Hyperf, webman
 - **Frontend Development**
     - HTML, CSS, Javascript, JQuery
     - LayUi, ElementUI, Bootstrap
     - Vue(beginner)
 - **Server Operation**
-    - Git, SVN
-    - Mysql, Redis, MongoDB
+    - Git, SVN, bitbucket
+    - MySQL, Redis, MongoDB
     - Linux, LNMP，WNMP，WAMP
     - Github Action, supervisor
     - Docker, Jenkins, k8s，Gopub
@@ -41,11 +41,11 @@ Hi, I'm Rockhui 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an w
 
 #### Interesting stats
 
-![RocHui's github stats](https://github-readme-stats.vercel.app/api?username=RocHui&show_icons=true&hide_border=true)
+![Rockhui's github stats](https://github-readme-stats.vercel.app/api?username=Rockhui01&show_icons=true&hide_border=true)
 
 Thanks for stopping by! 😁
 
-⭐️ From [Rockhui](https://github.com/RocDev-ops)
+⭐️ From [Rockhui](https://github.com/Rockhui01)
 
 <!--START_SECTION:waka-->
 ```text
@@ -54,7 +54,7 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 <!--
-**rockhui/rockhui* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rockhui/Rockhui* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
